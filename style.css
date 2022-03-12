@@ -1,0 +1,18 @@
+body{
+    background-image:radial-gradient(#f2df35,#e753cf,#ff4444,#fcc22c,#a74dfb);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align:center;
+    font-size: 30px;
+}
+h4 img{
+width:150px;
+margin-left: 50px;
+    border-radius: 25px;
+}
+.container,h5,.result{
+    font-size: 30px;
+}
+h4{
+    font-size: 50px;
+}
